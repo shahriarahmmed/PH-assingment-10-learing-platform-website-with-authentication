@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Skills Lab
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Front End technologies are use in this project
+[]React
+[]React Router
+[]Tailwind CSS
+[]DaisyUI
 
 In the project directory, you can run:
 
